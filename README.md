@@ -14,3 +14,5 @@
 #### [Git](https://github.com/kevincarr/documentation/wiki/Git)
 
 #### [Godot](https://github.com/kevincarr/documentation/wiki/Godot)
+
+#### [Laravel](https://github.com/kevincarr/documentation/wiki/Laravel)
